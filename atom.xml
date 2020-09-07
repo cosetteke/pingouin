@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
-    <title>Pingouin</title>
-    <updated>2020-09-07T18:27:19.427Z</updated>
+    <title>Ke&apos;s first website</title>
+    <updated>2020-09-07T18:32:00.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
-    <subtitle>It&apos;s ke&apos;s first website :)</subtitle>
+    <subtitle>Welcome to my website !  ｜ 欢迎来到我的主页 ｜ Bienvenue sur mon site!
+Here is a place that I record my notes / ideas.</subtitle>
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Pingouin</rights>
-    <entry>
-        <title type="html"><![CDATA[Pingouin]]></title>
-        <id>https://cosetteke.github.io/post/hello-gridea/</id>
-        <link href="https://cosetteke.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  Welcome to my website !  ｜ 欢迎来到我的主页 ｜ Bienvenue sur mon site!<br>
-✍️  Here is a place that I record my notes / ideas.</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  Welcome to my website !  ｜ 欢迎来到我的主页 ｜ Bienvenue sur mon site!<br>
-✍️  Here is a place that I record my notes / ideas.</p>
-<!-- more -->
-<p><a href="https://github.com/cosetteke">Github</a></p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>😘 Enjoy~</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2020, Ke&apos;s first website</rights>
 </feed>
