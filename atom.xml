@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-09-07T18:55:05.174Z</updated>
+    <updated>2020-09-09T16:54:03.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[一些絮絮叨叨 关于最近]]></title>
+        <id>https://cosetteke.github.io/yi-xie-xu-xu-tao-tao-guan-yu-zui-jin/</id>
+        <link href="https://cosetteke.github.io/yi-xie-xu-xu-tao-tao-guan-yu-zui-jin/">
+        </link>
+        <updated>2020-09-09T09:32:02.000Z</updated>
+        <content type="html"><![CDATA[<p>上周刚结束补考，这几天还处于手头有一堆事情不知道怎么上手的阶段。下午花了点时间捋了捋，希望能减轻点儿焦虑。</p>
+<h1 id="毕设">毕设</h1>
+<p>像我脑海中的定时炸弹，今天又是请教倩倩怎么跟老板meeting，又是问博后老哥怎么读文献，我好像又陷入了光空想不实践，越想越焦虑的死循环。所以教授到底什么时候回我邮件说下周meeting啊，我真是要哭了orzzzzz<br>
+今天还整了个小本本以后用来记录毕设的琐碎知识点，希望能用好它，哎我怎么老是在一件很大的事情上狂立一波flag然后行动力几乎为0啊<br>
+我的coursera上的ML课程都拖了。。一个月了 看到online matlab的页面我就脑壳疼</p>
+<h1 id="读书">读书</h1>
+<p>自从学了生信，要读的技能树像堆成山了一样，我索性直接设置了一个工具书的文件夹。目前最想读的是和<br>
+Bioinformatics Data Skills Reproducible and Robust Research with Open Source Tools 和 R datascience，都是图灵出的，是个很良心的出版公司。今天无意把书拉到最后才知道封面上的European hamster是一种濒危动物，其他的应该多多少少也是吧，希望自己有能把这一系列书啃下来的一天（划掉， 多啃几本的一天。</p>
+<p>计划九月把bioinformatics的这一本先在九月读掉前两章，在简书上整理汇总作为输出，后面更熟悉自己网站的操作后挪过来。（哎 又是一个flag</p>
+<h1 id="个人网站">个人网站</h1>
+<p>评论功能还没有加上去orz 还有怎么统计数据啊 我想统计访问量呢</p>
+<h1 id="就业">就业</h1>
+<h2 id="在欧洲找工作">在欧洲找工作？</h2>
+<p>略看了一下荷兰的search year visa申请，要拿到diploma之后的三四个月才能下来。<br>
+要是在比利时工作的话我的技能树还得再点，一个实习加持才能稳一些，战术性延毕可取吗？每天都在怀疑我这25min的法语学习有什么意义。</p>
+<h2 id="phd">phd</h2>
+<p>csc申请材料好像很复杂名额也有限，读不读博还有适不适合又是一个老生长谈的问题 。</p>
+<h2 id="秋招">秋招</h2>
+<p>中文简历还没做，是N年之前的版本还找不到在哪，英文简历好苍白还涉及到gap year的问题，只能宽慰自己乱七八糟的实践经历还是有收获的，下次上手的话就快了，所以没有那么无解。<br>
+对国内小型biotech公司还没有个系统性了解，只知道几个零星的小公司，最心动的就是前几天看到搞ML的那个岗位 要是能拿到offer 20k我怕是做梦都会笑醒 （ 然而现实是人家想要ML的大佬而不是我这种学了个intro课程的小白</p>
+<h1 id="租房">租房</h1>
+<p>课程安排还没出全，新学年选什么课程也没敲定，我真的蛮想学流行病学的那个课。最近在续ID，我在欧洲的学习生活大概只剩下一年了，好像还没有多拍拍照片。<br>
+德国的圣诞集市还没去，荷兰的库肯霍夫花园还有阿姆斯特丹也没去，所以就在纠结要不要租房。住在家里的话免不了一周有两天都是五点半起床，冬天跑来跑去又很折腾。住在学校的话又怕找不着房子，现在在家住习惯了又得换个新环境。反正横竖就是我折腾自己的脑子怕麻烦。<br>
+最近汇率也蛮高，8都不知道有没有人乐意这么换。</p>
+<p>写完心里舒服一些了，去找看看印度老哥给我发的资料再啃一点paper么好了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome page]]></title>
         <id>https://cosetteke.github.io/welcome-page/</id>
