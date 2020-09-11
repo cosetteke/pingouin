@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-09-11T19:29:22.915Z</updated>
+    <updated>2020-09-11T19:30:07.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://cosetteke.github.io/review-for-norwegian-wood/</id>
         <link href="https://cosetteke.github.io/review-for-norwegian-wood/">
         </link>
-        <updated>2020-09-10T18:44:55.000Z</updated>
+        <updated>2020-09-10T12:44:55.000Z</updated>
         <content type="html"><![CDATA[<h1 id="my-feeling">My feeling</h1>
 <p>I started to read it in the afternoon, the sunshine spread into my room through a rectangle window. The time I finished reading this book is almost dust. The sky was pink, turned to be orange and dark in a few minutes.<br>
 I searched for two songs, which were pretty well known for the same name. One is from Wubai, I’ve heard that music before, but I didn’t get why people say it is pleasant to hear. People said Wubai wrote this song after reading the book, the lyrics’ meaning is like the mental activity from Naoko. The other one is from The Beatles, my first time to listen to their songs though they were very famous. I feel very peaceful while listening to Norwegian Wood, there’s saying that the original name should be ‘know she would’.<br>
@@ -29,19 +29,37 @@ I might never read that book, but because of a person, I pick it up to know his 
 <p>死并非生的对立面，死潜伏在我们的生之中。</p>
 </blockquote>
 <blockquote>
-<p>电车像根缝衣针一样在密密麻麻的住宅地带婉蜒前行。<br>
-我们(这里的我们是对正常人和不正常人统而言之的总称)是生息在不健全世界上的不健全的人。 不可能用尺子测量长度或用分度器测量角度而如同银行存款那样毫厘不爽地生活。<br>
-“你穿的我都喜欢，你做的说的，你的走路姿势，你的醉态我统统喜欢。” “这样下去真的可以?”<br>
+<p>电车像根缝衣针一样在密密麻麻的住宅地带婉蜒前行。</p>
+</blockquote>
+<blockquote>
+<p>我们(这里的我们是对正常人和不正常人统而言之的总称)是生息在不健全世界上的不健全的人。 不可能用尺子测量长度或用分度器测量角度而如同银行存款那样毫厘不爽地生活。</p>
+</blockquote>
+<blockquote>
+<p>“你穿的我都喜欢，你做的说的，你的走路姿势，你的醉态我统统喜欢。” “这样下去真的可以?”<br>
 “也不知道让你怎么改好，索性就这样好了。”<br>
 “喜欢我喜欢到什么程度?”绿子问。<br>
-“整个世界森林里的老虎全都融化成黄油。”<br>
-我已成为过去的人。你眼前存在的不过是我往日的记忆残片。我心目中最宝贵的东 西早在很久以前就已寿终正寝。我只是按照过去的记忆坐卧行止。<br>
-秋意的加深是与你返回东京同时开始的，因此我许久都捉摸不透自己心里仿佛出现一 个大洞的感觉是由于你不在造成的，还是时令的更迭所致。<br>
-哪里会有人喜欢孤独，不过是不喜欢失望。<br>
-然而在相隔许久后重新观望这光景的时间里，我蓦然注意到一个事 实:每个人无不显得很幸福。至于他们是真的幸福还是仅仅表面看上去如此，就无从得知 了。但无论如何，在9月间这个令人心神荡漾的下午，每个人看来都自得其乐。而我则因 此而感到平时所没有过的孤寂，觉得惟独我自己与这光景格格不入。<br>
-对于只身独处的人来说，4月实在是不胜凄寂的时节。4月里，周围的人无不显得满面春风。<br>
-世上是有这种人的:尽管有卓越的天赋才华，却承受不住使之系统化的训练，而终归将才华支离破碎地挥霍掉。<br>
-“最最喜欢你，绿子。”<br>
+“整个世界森林里的老虎全都融化成黄油。”</p>
+</blockquote>
+<blockquote>
+<p>我已成为过去的人。你眼前存在的不过是我往日的记忆残片。我心目中最宝贵的东 西早在很久以前就已寿终正寝。我只是按照过去的记忆坐卧行止。</p>
+</blockquote>
+<blockquote>
+<p>秋意的加深是与你返回东京同时开始的，因此我许久都捉摸不透自己心里仿佛出现一 个大洞的感觉是由于你不在造成的，还是时令的更迭所致。</p>
+</blockquote>
+<blockquote>
+<p>哪里会有人喜欢孤独，不过是不喜欢失望。</p>
+</blockquote>
+<blockquote>
+<p>然而在相隔许久后重新观望这光景的时间里，我蓦然注意到一个事 实:每个人无不显得很幸福。至于他们是真的幸福还是仅仅表面看上去如此，就无从得知 了。但无论如何，在9月间这个令人心神荡漾的下午，每个人看来都自得其乐。而我则因 此而感到平时所没有过的孤寂，觉得惟独我自己与这光景格格不入。</p>
+</blockquote>
+<blockquote>
+<p>对于只身独处的人来说，4月实在是不胜凄寂的时节。4月里，周围的人无不显得满面春风。</p>
+</blockquote>
+<blockquote>
+<p>世上是有这种人的:尽管有卓越的天赋才华，却承受不住使之系统化的训练，而终归将才华支离破碎地挥霍掉。</p>
+</blockquote>
+<blockquote>
+<p>“最最喜欢你，绿子。”<br>
 “什么程度?”<br>
 “像喜欢春天的熊一样。”<br>
 “春天的熊?”绿子再次扬起脸，“什么春天的熊?”<br>
