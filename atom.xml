@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-09-27T12:35:48.547Z</updated>
+    <updated>2020-10-11T16:24:26.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[焦虑。焦虑]]></title>
+        <id>https://cosetteke.github.io/jiao-lu-jiao-lu/</id>
+        <link href="https://cosetteke.github.io/jiao-lu-jiao-lu/">
+        </link>
+        <updated>2020-10-11T10:11:27.000Z</updated>
+        <content type="html"><![CDATA[<p>眼看着同学秋招投简历做面试题目，不焦虑是不可能的。</p>
+<p>早上学完sklearn的教程随手刷了一篇知乎，今天便乱了节奏。药企在我小小局限的目光下变得不一样，怎么还有SAS Programmar这样的职位，很热门的CRA职位又是什么呢？</p>
+<p>大三时候我对本行的认知就是：本科毕业工作没钱赚，好像那个药品注册还可以。现在又掉入了死循环，觉得自己这不行那不行，早知道XXX这样的心理又出现了。反正就是，左右选择，都是后悔。写简历的时候后悔做项目没有认真做，怕求职的时候人家问起来一问三不知，认真做的项目又对求职没有任何帮助，这个问题的本质是 我，这个人，好像有问题。</p>
+<p>而且，我还在重蹈覆辙这个错误。比如该需要认真学习，明天SG第一个project没完成（学习统计知识）、周三上午还有个meeting（学习ML）的时候，我在什么都不做没头苍蝇般地焦虑。</p>
+<p>如果焦虑可以解决问题，那它就是有意义的。然而，伴随我这么多年的这样的情绪，除了带给我躯体化的困扰之外没有任何帮助，让我无法享受眼前的风景，让我瞻前顾后，让我踌躇在原地。</p>
+<p>如果多做事情，少把精力放在思考这些上，起码我不会停滞不前。小组作业邀请被拒，还有那么多同学，每个同学身上都有值得学习的地方呀，毕竟我自己水平在那里摆着，实在没有对别人挑挑拣拣的道理。我之前一直想和厉害的人一起做事的想法大概是一种心理依赖，期望别人能帮我完成自己的事情，本质上来说就是思想不够成熟独立。独立是自己有解决问题的执行力，遇到问题及时求助，获得反馈后继续坚持。</p>
+<p>不能再焦虑了，珍惜现在纯粹的学习环境，此生不会再有了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[09-25]]></title>
         <id>https://cosetteke.github.io/09-25/</id>
