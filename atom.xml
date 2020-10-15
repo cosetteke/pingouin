@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-10-11T16:24:26.487Z</updated>
+    <updated>2020-10-15T11:10:40.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[The first fan]]></title>
+        <id>https://cosetteke.github.io/the-first-fan/</id>
+        <link href="https://cosetteke.github.io/the-first-fan/">
+        </link>
+        <updated>2020-10-15T04:50:41.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cosetteke.github.io/post-images/1602759876047.jpg" alt="" loading="lazy"></figure>
+<p>今天早上睡醒收到校长的邮件：学校活动按照红色code执行。<br>
+打开简书，意外地发现一条新消息提醒！<br>
+还以为是什么垃圾系统推送， 没想到小张迎来了第一个订阅！<br>
+第一个陌生人订阅呢！<br>
+嘿嘿嘿嘿嘿<br>
+要继续坚持写啦。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[焦虑。焦虑]]></title>
         <id>https://cosetteke.github.io/jiao-lu-jiao-lu/</id>
