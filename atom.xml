@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-10-15T11:10:40.899Z</updated>
+    <updated>2020-10-18T21:29:54.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[10-18]]></title>
+        <id>https://cosetteke.github.io/10-18/</id>
+        <link href="https://cosetteke.github.io/10-18/">
+        </link>
+        <updated>2020-10-18T15:28:38.000Z</updated>
+        <content type="html"><![CDATA[<p>迎来了 第一个活粉 给我的文章点赞和关注了 嘿嘿嘿嘿嘿 开心！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10-16]]></title>
+        <id>https://cosetteke.github.io/10-16/</id>
+        <link href="https://cosetteke.github.io/10-16/">
+        </link>
+        <updated>2020-10-16T15:39:24.000Z</updated>
+        <content type="html"><![CDATA[<p>在二次Lockdown之前去吃了麦当劳 ;D<br>
+食欲得到极大满足<br>
+该怎么面对即将到来的日子呢</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The first fan]]></title>
         <id>https://cosetteke.github.io/the-first-fan/</id>
