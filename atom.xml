@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-10-18T21:30:00.496Z</updated>
+    <updated>2020-11-02T19:47:37.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[11-2]]></title>
+        <id>https://cosetteke.github.io/11-2/</id>
+        <link href="https://cosetteke.github.io/11-2/">
+        </link>
+        <updated>2020-11-02T12:45:04.000Z</updated>
+        <content type="html"><![CDATA[<p>顿感精神贫瘠的原因应该是近期读书太少，出国之后很少好好看书。<br>
+我知道你很渴望和外界有交流，现在的方式不一定高效，不如在这段特殊的时期来自洽，和距离很遥远（地理位置，时间）的人来场对话，直面内心。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10-18]]></title>
         <id>https://cosetteke.github.io/10-18/</id>
