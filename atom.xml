@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosetteke.github.io</id>
     <title>Ke&apos;s first website</title>
-    <updated>2020-11-02T19:47:37.460Z</updated>
+    <updated>2020-12-08T10:03:32.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosetteke.github.io"/>
     <link rel="self" href="https://cosetteke.github.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://cosetteke.github.io/images/avatar.png</logo>
     <icon>https://cosetteke.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ke&apos;s first website</rights>
+    <entry>
+        <title type="html"><![CDATA[关于下学期的安排]]></title>
+        <id>https://cosetteke.github.io/guan-yu-xia-xue-qi-de-an-pai/</id>
+        <link href="https://cosetteke.github.io/guan-yu-xia-xue-qi-de-an-pai/">
+        </link>
+        <updated>2020-12-08T03:03:03.000Z</updated>
+        <content type="html"><![CDATA[<p>Dear colleagues and students,</p>
+<p>The end of the first semester is gradually approaching. The past few months have been hectic and I believe this will remain so for the foreseeable future, both off- and on-campus. My appreciation and gratitude for the way you have shaped our university in these extraordinary times is great.</p>
+<p>With this message, I would like to look ahead at the way our educational activities will be organized during the second semester. Because we want to give everyone the chance to prepare themselves and because we want to provide guidance.</p>
+<p>The Flemish government has – in consultation with the rectors of all Flemish universities and acting, among other things, on the advice of a great many scientists/experts – decided that the second semester educational activities of the universities and university colleges will start in code red.</p>
+<p>The organization of essential practice classes, the availability of study areas and extra guidance for students in the first bachelor year will be our priority.</p>
+<p>Code red will remain in effect at our university for six weeks of classes (i.e. up to and including March 21st, 2021). At the end of February, the epidemiological situation will be re-evaluated to assess the possibilities for the organization of teaching activities during the remaining weeks of classes.</p>
+<p>What does this mean concretely for the educational activities at Ghent University at the start of the second semester?</p>
+<ul>
+<li>
+<pre><code>  No lectures are allowed on-campus.
+</code></pre>
+</li>
+<li>
+<pre><code>  Essential practice classes, lab classes, seminars and practice exercises will be allowed on-campus. These teaching activities will be organized according to strict safety guidelines.
+</code></pre>
+</li>
+<li>
+<pre><code>  For students in the first bachelor year and for other students who are studying at Ghent University for the first time, specific teaching activities will be allowed on-campus.
+</code></pre>
+</li>
+<li>
+<pre><code>  Students who need to do so, can make use of on-campus study areas throughout the second semester. Strict safety measures apply there and they will be monitored at all times to make sure that the measures are observed. You can reserve a seat in these study areas via the web page https://studieplekken.ugent.be/information
+</code></pre>
+</li>
+</ul>
+<p>More information about the organization of our teaching activities in the second semester can be found on the Ghent University website: https://www.ugent.be/student/en/academic-year-20-21/secondsemester.htm</p>
+<p>At this time, activities organized by student associations are not allowed on-campus. As soon as the Consultation Committee indicates that it is possible to relax the measures that affect these activities, there will be an examination of whether/how student activities will, once again, be allowed to take place on-campus.</p>
+<p>The current general Ghent University corona policies still apply. You can find out more about them on https://www.ugent.be/en/news-events/coronameasures.htm</p>
+<p>The recent evolution of the corona indicators are a clear sign that we must remain cautious and caring. Therefore: continue to help each other. Do not let go of one another.</p>
+<p>Rik Van de Walle<br>
+Rector</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直球人士小张好像crush了]]></title>
+        <id>https://cosetteke.github.io/zhi-qiu-ren-shi-xiao-zhang-hao-xiang-crush-liao/</id>
+        <link href="https://cosetteke.github.io/zhi-qiu-ren-shi-xiao-zhang-hao-xiang-crush-liao/">
+        </link>
+        <updated>2020-11-17T08:03:28.000Z</updated>
+        <content type="html"><![CDATA[<p>嗯 最近总是忍不住傻笑<br>
+生活太美好了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11-2]]></title>
         <id>https://cosetteke.github.io/11-2/</id>
@@ -135,15 +184,6 @@ Bioinformatics Data Skills Reproducible and Robust Research with Open Source Too
 德国的圣诞集市还没去，荷兰的库肯霍夫花园还有阿姆斯特丹也没去，所以就在纠结要不要租房。住在家里的话免不了一周有两天都是五点半起床，冬天跑来跑去又很折腾。住在学校的话又怕找不着房子，现在在家住习惯了又得换个新环境。反正横竖就是我折腾自己的脑子怕麻烦。<br>
 最近汇率也蛮高，8都不知道有没有人乐意这么换。</p>
 <p>写完心里舒服一些了，去看看资料再啃一点paper，溜了溜了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome page]]></title>
-        <id>https://cosetteke.github.io/welcome-page/</id>
-        <link href="https://cosetteke.github.io/welcome-page/">
-        </link>
-        <updated>2020-09-07T06:41:37.000Z</updated>
-        <content type="html"><![CDATA[<p>Welcome to my website !  | 欢迎来到我的主页! ｜ Bienvenue sur mon site!</p>
 ]]></content>
     </entry>
 </feed>
